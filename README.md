@@ -1,3 +1,3 @@
-# nextjs-ztuwry
+# nextjs-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-ztuwry)
+[⚡️](https://stackblitz.com/edit/nextjs-ztuwry)
